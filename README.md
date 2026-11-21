@@ -243,7 +243,7 @@ Through this process, raw data becomes more than a collection of records—it be
 
 Interested in programming, analytical thinking, understanding how technology works, and learning through practical problem-solving.
 
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/sujana-kadiyam-2a14933b3)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/sujana-kadiyam-2a14933b3)
 - **GitHub:** [Explore my repositories](https://github.com/sujanakadiyam)
 
 ---
